@@ -64,6 +64,8 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young 
 
 </details>
 
+<br/>
+
 ## 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinand5&show_icons=true&line_height=21" alt="abhinand5's Github Stats" />
