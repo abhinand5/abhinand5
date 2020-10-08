@@ -6,7 +6,7 @@
 
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.  <br/>
 
@@ -70,7 +70,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young 
 <br />
 
 
-### 🚀 Quick Stats
+## 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinand5&show_icons=true&line_height=21" alt="abhinand5's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand5&langs_count=6" />
