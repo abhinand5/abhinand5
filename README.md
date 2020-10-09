@@ -2,7 +2,7 @@
 </h1>
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=twitter&logoColor=white&link=https://github.com/abhinand5)](https://github.com/abhinand5) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinand-05/)](https://linkedin.com/in/abhinand-05) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/abhinand5) [![Twitter Badge](http://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=twitter&logoColor=darkblue&link=https://twitter.com/abhinand5899)](https://twitter.com/abhinand5899)  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=https://medium.com/@abhinand05)](https://medium.com/@abhinand05) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandalfio@gmail.com)](mailto:abhinandalfio@gmail.com)
+[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=twitter&logoColor=white&link=https://github.com/abhinand5)](https://github.com/abhinand5) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinand-05/)](https://linkedin.com/in/abhinand-05) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/abhinand05) [![Twitter Badge](http://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=twitter&logoColor=darkblue&link=https://twitter.com/abhinand5899)](https://twitter.com/abhinand5899)  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=https://medium.com/@abhinand05)](https://medium.com/@abhinand05) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandalfio@gmail.com)](mailto:abhinandalfio@gmail.com)
 
 
 
@@ -68,6 +68,6 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young 
 
 ## 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinand5&show_icons=true&line_height=21" alt="abhinand5's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand5&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinand5&show_icons=true&line_height=21&count_private=true" alt="abhinand5's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand5&langs_count=6&hide=matlab&count_private=true" />
 </p>
