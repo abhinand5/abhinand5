@@ -52,7 +52,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young 
   - ♾️ Literally any tech
 - 📝 I write technical blogs and articles
 - ⚽ Football fan
-- 🧊 Speed Cuber! (Sorry couldn't find Rubic's cube emoji)
+- 🧊 Speed Cuber! (Sorry couldn't find Rubik's cube emoji)
 - 🎮 Game occasionally
 - :book: Reading Books - (These days mostly tech :slightly_smiling_face:)
 - I​n​ :heart: with Astronomy and everything about :milky_way: space eversince :baby: !  
