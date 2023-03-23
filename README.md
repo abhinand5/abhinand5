@@ -26,10 +26,15 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young 
 
 ##  🤹 Skill Zone
 <p align="center">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-black?&style=for-the-badge&logo=pytorch&logoColor=red"/> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=for-the-badge&logo=scikit-learn"/> <img src="https://img.shields.io/badge/FastAPI-lightblue?&style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/>  
+<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-black?&style=for-the-badge&logo=pytorch&logoColor=red"/> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=for-the-badge&logo=scikit-learn"/> 
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postgres-lightblue?&style=for-the-badge&logo=postgresql&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/npm-grey?&style=for-the-badge&logo=npm"/> <img src="https://img.shields.io/badge/Node--Js-green?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-black?&style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-lightblue?&style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/Go--Gin-blue?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Node--Js-green?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postgres-lightblue?&style=for-the-badge&logo=postgresql&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/Linux-black?&style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 <p align="center">
