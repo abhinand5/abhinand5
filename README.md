@@ -1,5 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there!, I am <a href="https://github.com/abhinand5">Abhinand</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> <br> <img align="center" alt="visitors" src="https://gpvc.arturio.dev/abhinand5"/></h1> 
-</h1>
+<h1> Hi there!, I am <a href="https://github.com/abhinand5">Abhinand</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> </h1>
 
 #### 📬 Find me at 
 [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=twitter&logoColor=white&link=https://github.com/abhinand5)](https://github.com/abhinand5) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinand-05/)](https://linkedin.com/in/abhinand-05) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/abhinand05) [![Twitter Badge](http://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=twitter&logoColor=darkblue&link=https://twitter.com/abhinand5899)](https://twitter.com/abhinand5899)  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=https://medium.com/@abhinand05)](https://medium.com/@abhinand05) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandb.ml@gmail.com)](mailto:abhinandb.ml@gmail.com)
@@ -87,8 +86,8 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young 
 <p align="center">
   
   [![StreamLit](https://github-readme-stats.vercel.app/api/pin/?username=streamlit&repo=streamlit&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/streamlit/streamlit)
-  [![StreamLit](https://github-readme-stats.vercel.app/api/pin/?username=python-geeks&repo=Automation-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/python-geeks/Automation-scripts)
+  [![Tamil-LLama](https://github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=tamil-llama&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/abhinand5/tamil-llama/tree/main)
   
-  [![StreamLit](https://github-readme-stats.vercel.app/api/pin/?username=geekquad&repo=AlgoBook&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/geekquad/AlgoBook)
+  [![GPTqForLangChain](https://github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=gptq_for_langchain&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/abhinand5/gptq_for_langchain)
   [![StreamLit](https://github-readme-stats.vercel.app/api/pin/?username=FengcunLi&repo=CloudSimPy&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/FengcunLi/CloudSimPy)
 </p>
