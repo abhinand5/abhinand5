@@ -1,5 +1,9 @@
 <h1> Hi there!, I am <a href="https://github.com/abhinand5">Abhinand</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> </h1>
 
+<img src="https://komarev.com/ghpvc/?username=abhinand5&&style=flat-square" align="left" />
+
+<br />
+
 #### 📬 Find me at 
 [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=twitter&logoColor=white&link=https://github.com/abhinand5)](https://github.com/abhinand5) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinand-05/)](https://linkedin.com/in/abhinand-05) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/abhinand05) [![Twitter Badge](http://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=twitter&logoColor=darkblue&link=https://twitter.com/abhinand5899)](https://twitter.com/abhinand5899)  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=https://medium.com/@abhinand05)](https://medium.com/@abhinand05) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandb.ml@gmail.com)](mailto:abhinandb.ml@gmail.com)
 
