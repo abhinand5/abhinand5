@@ -1,97 +1,102 @@
-<h1> Hi there!, I am <a href="https://github.com/abhinand5">Abhinand</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> </h1>
+<h1 align="center">
+  <img src="./assets/name.svg" alt="Abhinand" />
+</h1>
 
-<img src="https://komarev.com/ghpvc/?username=abhinand5&&style=flat-square" align="left" />
-
-<br />
-
-#### 📬 Find me at 
-[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=twitter&logoColor=white&link=https://github.com/abhinand5)](https://github.com/abhinand5) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinand-05/)](https://linkedin.com/in/abhinand-05) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/abhinand05) [![Twitter Badge](http://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=twitter&logoColor=darkblue&link=https://twitter.com/abhinand5899)](https://twitter.com/abhinand5899)  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=https://medium.com/@abhinand05)](https://medium.com/@abhinand05) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandb.ml@gmail.com)](mailto:abhinandb.ml@gmail.com)
-
-
-
-## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.  <br/>
-
-<br/>
-
-## 👨‍💻 I can code in...
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">  
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="vertical-align:top; margin:4px"/>
-</p>
-
-
-
-##  🤹 Skill Zone
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-black?&style=for-the-badge&logo=pytorch&logoColor=red"/> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=for-the-badge&logo=scikit-learn"/> 
+  <a href="https://github.com/abhinand5">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Machine+Learning+Engineer;Kaggle+Master;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-lightblue?&style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/Go--Gin-blue?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Node--Js-green?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <a href="https://github.com/abhinand5?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abhinand5?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/abhinand5?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abhinand5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <br/>
+  <a href="https://github.com/abhinand5">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=abhinand5"/></a>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postgres-lightblue?&style=for-the-badge&logo=postgresql&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/Linux-black?&style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/docker-white?&style=for-the-badge&logo=Docker&logoColor=blue"/> <img src="https://img.shields.io/badge/Kubernetes-white?&style=for-the-badge&logo=kubernetes&logoColor=blue"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Spark-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=blue" /> <img src="https://img.shields.io/badge/kubeflow-blue?style=for-the-badge&logo=Kubeflow&logoColor=blue" /> 
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Terraform-lightblue?style=for-the-badge&logo=terraform&logoColor=purple" /> <img src="https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=ansible&logoColor=black" />  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/> 
-</p>
-
-<br/>
-
-<details>
-  <summary><b>Click to know more about me! 😄 <b></summary>
-
-## ⚡️ A Few Quick Facts
-
-- 🔭 I’m currently working on something special!
-- Learning ReactJS
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🔤 Natural Language Processing
-  - 🖼 Computer Vision
-  - 🤖 Reinforcement Learning
-  - Deploying ML Models and scaling them
-  - ♾️ Literally any tech
-- 📝 I write technical blogs and articles
-- ⚽ Football fan
-- 🧊 Speed Cuber! (Sorry couldn't find Rubik's cube emoji)
-- 🎮 Game occasionally
-- :book: Reading Books - (These days mostly tech :slightly_smiling_face:)
-- I​n​ :heart: with Astronomy and everything about :milky_way: space eversince :baby: !  
-
-
-### 🖥️ My DevSetup
-
-<img src="https://img.shields.io/badge/-ROG--G14-F5F5F5?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADbUlEQVRYR%2B2WbUxbVRjHfy2l0PLigEiARZw6JC5u8UuHJmp02UxBIosMp0Y3dFJfAAHRMWAjl8QofnAkC5uOvcDIBnthlC1DksWELFtCIrJkxsUsfjAojBZaStt7by99u6Yf%2BKTbkEJIDOfreZ7%2F%2F5f%2FeXLO0bDCS7PC%2FqwC%2FL8S%2BNRiydbpDaYYrS4rpKpuxab0HblwRLzfnC1JAs0Ndfk%2BWTqANj5PlIPamVnvsOj1NV4e6B560JBHDdBUV5sfDgUvh9Q4nc0h%2B11usa6%2Fv%2FPQEGhTIPcZuL1sCdTXl6fF%2BDW%2F%2BsPxGXenJLdXlHZcutT14wg8boQuFTqfhuPLBtBY8%2BHJgGp4b2JKmfEpXnNf35mRm%2FCaDjrmoGcN1ObA3LIANFbteTFI%2FNCEQxVFSdxm7e%2BKmNcH4IANGtbCnya4uKgZsFgsse3t7YF7NVdWVsYlaJSbNrd%2BvdsjFX5p7bwmwVEJihxQ%2FRRUuODcC%2FDtogDKyz8rOHz44CCg%2FpvAvopSwaUYm6acvj211o7eWOidgScD0LAeWiTIdsPmrTCyKIC91dXbXVJ8zLFjLf%2BIsKHqg00eJeYnmzPQ9lHvya%2BTYMAOhgRoyYI2INkObhUyXobgogCEz99NdymZN9zi1CZjXPJL6ZmpVwVBCAuCoHdNjg%2FfdaquksGz72RL0uAk%2BNLhuxSoD8F%2BDfSMg9UMbz7IPLJ%2Fz3tgX%2B3e69Oz4SupBlkNaZOetTvl0kfTw%2FvH7P6dObd%2F22a%2BdaPbBtJaOGWEPD%2FU6WCLCBfdsNMM56MDqCoziYE1%2FRpVLH4oMfF6KKx1ujzeZCY9BaVXTjfbQZsKB9PAvwEGIma34IIDzCJkFYE3KoBI8ydlZSZ5Lvb1xzL1G4Nh3atjE2Lzx93fb5yGdbOwIxc8eeCM1A7DOi3cmYaeQihdiPl9j2BeoKSkJDE3%2B%2BFXZL%2F%2B3NYTx78Ky2LTKBw1wjdfwB%2BRup8hNghWDxT4wVQIo0sGEBESBEHrmLSPJvzl2fX8D2cKZ6FiBjJUuJMEYymQkwBPKNBXBMULNV9QAvNi5e%2B%2F9ZwcSnu741Rb5XnQS7AlDPkqbDbCIwYYD8D2N8C2LAAR0d27y4o1AcMvnd2Hfv8vJkv6FtTU1BhaW1t9KwawVMbzOlF%2FSKIFWgVYTWA1gRVP4G8olVUweX3oIAAAAABJRU5ErkJggg%3D%3D"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/-VirtualBox-9cf?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAAmJLR0QA%2F4ePzL8AAAH%2FSURBVBgZBcFtaA4IAAfw3zP06PFF2m6UdZ0vGrq8JCK7uicvNTViXVzdzHYMI%2BTLmIvu6lBT%2B%2BDlA7EpUkJyX65rdRTdp4cPI1d8oeluXtJ5O1v7%2B%2F0AAKBok4qKTYoAAAAA1DrkuRvW2Oi2fxw2FQAAgLnOeeOs5fZYa50fNLnmgz7zAQCqNBnw2q%2B%2B1apsm2U6zdWu1SpnfHTLOuMAavwt7pisRxPK%2Buw04De1aHbQdA%2FEY18A9SLiL2V77TAbs7RYpGirDstVRMRMoFqMiBjTb4lfNGKGy7otdMmYiIgpQJVRja6KiP90WemYHksd8FZEDPjeJwWAf5XR5KmIeKzZek9ExLAWBSsMATCoGZQcMSoiImJMvxqwwT0A%2FtRhAWChioiIh74BE5Vt9wcAV%2By32HeA8U6L6FMEXzvpsG4XATilB%2FOsVgLtIjoxyTRHdSo5rheAn50DX2pWjTYRO9Tb5ZAVCjivG4BdnlkAaizWqE3Edv1afQUWGbIVgHle%2Bd9uBUzUoE1Eh80moGCfT16aAwB17orf1YLNIraAajdFxQwAgKJe8VQDWkX8iAbPxAUlAADguhh1UJuILbqNiBcAAACcEBHDIoZFxCAAAADtIiIiIiL6AAAAKHkoIiIi4r16AAAAqPNIRETESw0AAAAAk3SpeOed%2B34yGQDgM6uy1dsj1wy4AAAAAElFTkSuQmCC"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
-
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects and Contributions</h2></summary>
+  <p align="left">
+    <a href="https://github.com/abhinand5/tamil-llama"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=tamil-llama&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tamil-llama"></a>
+    <a href="https://github.com/abhinand5/gptq_for_langchain"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=gptq_for_langchain&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="gptq_for_langchain"></a>
+    <a href="https://github.com/OpenAccess-AI-Collective/axolotl"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OpenAccess-AI-Collective&repo=axolotl&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="axolotl"></a>
+    <a href="https://github.com/abhinand5/isolated-sign-language-recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=isolated-sign-language-recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="axolotl"></a>
+  </p>
+  <a href="https://github.com/abhinand5?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<br/>
+<details open> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
-## 🚀 Quick Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinand5&show_icons=true&line_height=21&count_private=true&theme=dracula" alt="abhinand5's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand5&langs_count=6&hide=matlab&count_private=true&theme=nightowl" />
-</p>
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
-## 🤗 Notable Contributions
-<p align="center">
+  <p>
+      <a href="https://github.com/search?q=user%3Aabhinand5+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aabhinand5+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white"></a>
+<!--       <a href="https://github.com/search?q=user%3Aabhinand5+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
+      <a href="https://github.com/search?q=user%3Aabhinand5+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3Aabhinand5+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aabhinand5+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  </p>
+
+  <h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+      <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"></a>
+      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+  </p>
+
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+      <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white"></a>
+  </p>
+</details>
+
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abhinand's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abhinand5&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abhinand's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhinand5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. I certainly code more in Python and Go than JS :)
   
-  [![StreamLit](https://github-readme-stats.vercel.app/api/pin/?username=streamlit&repo=streamlit&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/streamlit/streamlit)
-  [![Tamil-LLama](https://github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=tamil-llama&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/abhinand5/tamil-llama/tree/main)
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+</details>
 
-  [![Axolotl](https://github-readme-stats.vercel.app/api/pin/?username=OpenAccess-AI-Collective&repo=axolotl&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/OpenAccess-AI-Collective/axolotl)
-  [![GPTqForLangChain](https://github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=gptq_for_langchain&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/abhinand5/gptq_for_langchain)
-</p>
+<details>
+ <summary><h2>🏆 GitHub Trophies</h2></summary>
+
+ <p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=abhinand5&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+ </p>
+</details>
+
+<hr/>
+
+<h3 align="center">
+  👋 Thanks for visiting! Here's a random joke that'll make you smile!
+  <br><br>
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+</h3>
+
+<!-- <a href="https://github.com/abhinand5/abhinand5"><img src="https://github.com/abhinand5/abhinand5/blob/output/github-contribution-grid-snake.svg" /></a> -->
+
