@@ -20,12 +20,12 @@
 
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects and Contributions</h2></summary>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/abhinand5/tamil-llama"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=tamil-llama&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tamil-llama"></a>
     <a href="https://github.com/abhinand5/gptq_for_langchain"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=gptq_for_langchain&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="gptq_for_langchain"></a>
-    <a href="https://github.com/OpenAccess-AI-Collective/axolotl"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OpenAccess-AI-Collective&repo=axolotl&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="axolotl"></a>
-    <a href="https://github.com/abhinand5/isolated-sign-language-recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=isolated-sign-language-recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="axolotl"></a>
+    <a href="https://github.com/abhinand5/MedEmbed"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abhinand5&repo=MedEmbed&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MedEmbed"></a>
+<!--     <a href="https://github.com/OpenAccess-AI-Collective/axolotl"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OpenAccess-AI-Collective&repo=axolotl&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="axolotl"></a> -->
   </p>
   <a href="https://github.com/abhinand5?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
